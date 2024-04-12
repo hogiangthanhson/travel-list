@@ -1,4 +1,4 @@
-import { Items } from "./PackingList";
+import { Items } from "../interface";
 
 export default function Item({ item }: { item: Items }) {
   return (
